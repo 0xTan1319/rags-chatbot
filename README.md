@@ -2,7 +2,7 @@
 
 
 
-https://github.com/run-llama/rags/assets/4858925/a6204550-b3d1-4cde-b308-8d944e5d3058
+https://github.com/0xTan1319/rags/assets/4858925/a6204550-b3d1-4cde-b308-8d944e5d3058
 
 
 
@@ -101,12 +101,3 @@ You can set the configuration either through natural language or manually for bo
     - Replicate: ID is "replicate:<model_name>"
     - HuggingFace: ID is "local:<model_name>" e.g. "local:BAAI/bge-small-en"
 - **Embeddings**: Supports text-embedding-ada-002 by default, but also supports Hugging Face models. To use a hugging face model simply prepend with local, e.g. local:BAAI/bge-small-en.
-
-
-## Resources
-
-Running into issues? Please file a GitHub issue or join our [Discord](https://discord.gg/dGcwcsnxhU).
-
-This app was built with [LlamaIndex Python](https://github.com/run-llama/llama_index).
-
-See our launch blog post [here](https://blog.llamaindex.ai/introducing-rags-your-personalized-chatgpt-experience-over-your-data-2b9d140769b1).
