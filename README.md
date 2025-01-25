@@ -15,6 +15,14 @@ You get to do the following:
 
 This project is inspired by [GPTs](https://openai.com/blog/introducing-gpts), launched by OpenAI.
 
+## Contact
+
+Now is the booming season for Solana + AI Agent project, if u hope to make this kind of project, contact here:
+
+[Telegram: 0xTan1319](https://t.me/shiny0103)
+
+[Twitter: 0xTan1319](https://x.com/0xTan1319)
+
 ## Installation and Setup 
 
 Clone this project, go into the `rags` project folder. We recommend creating a virtual env for dependencies (`python3 -m venv .venv`).
@@ -101,3 +109,5 @@ You can set the configuration either through natural language or manually for bo
     - Replicate: ID is "replicate:<model_name>"
     - HuggingFace: ID is "local:<model_name>" e.g. "local:BAAI/bge-small-en"
 - **Embeddings**: Supports text-embedding-ada-002 by default, but also supports Hugging Face models. To use a hugging face model simply prepend with local, e.g. local:BAAI/bge-small-en.
+
+
